@@ -1,0 +1,12 @@
+# ninja log v5
+60	475	7696650003470196	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	c0a9ffb1d0237941
+477	1191	7696650008361549	D:/PROYEK/PixelRPG_Game/PixelRPG_Game/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/23372tl1/obj/armeabi-v7a/libswappywrapper.so	be5e7806a95a6085
+13	2774	7696650026387477	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	cb8da204b712196e
+34	2818	7696650026834925	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	c77a17b64cb9ef46
+18	2880	7696650027447542	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	fd8d6ab2274c8d84
+8	2903	7696650027748765	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	62ecc3c2617e2258
+42	2916	7696650027783836	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	74bad495d41fb91c
+51	3165	7696650030489379	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	e8eae4e096f36a84
+26	3293	7696650031745490	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	e733fa7abaea2450
+2	3405	7696650032839620	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	456bf689da839511
+3405	3507	7696650033956915	D:/PROYEK/PixelRPG_Game/PixelRPG_Game/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/23372tl1/obj/armeabi-v7a/libgame.so	6333369b2a21463a

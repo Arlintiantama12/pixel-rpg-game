@@ -1,0 +1,8 @@
+D:/PROYEK/PixelRPG_Game/PixelRPG_Game/.utmp/RelWithDebInfo/23372tl1/arm64-v8a/CMakeFiles/edit_cache.dir
+D:/PROYEK/PixelRPG_Game/PixelRPG_Game/.utmp/RelWithDebInfo/23372tl1/arm64-v8a/CMakeFiles/rebuild_cache.dir
+D:/PROYEK/PixelRPG_Game/PixelRPG_Game/.utmp/RelWithDebInfo/23372tl1/arm64-v8a/GameActivity/CMakeFiles/game.dir
+D:/PROYEK/PixelRPG_Game/PixelRPG_Game/.utmp/RelWithDebInfo/23372tl1/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+D:/PROYEK/PixelRPG_Game/PixelRPG_Game/.utmp/RelWithDebInfo/23372tl1/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
+D:/PROYEK/PixelRPG_Game/PixelRPG_Game/.utmp/RelWithDebInfo/23372tl1/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir
+D:/PROYEK/PixelRPG_Game/PixelRPG_Game/.utmp/RelWithDebInfo/23372tl1/arm64-v8a/FramePacing/CMakeFiles/edit_cache.dir
+D:/PROYEK/PixelRPG_Game/PixelRPG_Game/.utmp/RelWithDebInfo/23372tl1/arm64-v8a/FramePacing/CMakeFiles/rebuild_cache.dir
